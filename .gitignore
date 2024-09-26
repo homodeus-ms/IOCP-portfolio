@@ -1,0 +1,9 @@
+server/x64/
+x64/
+Binaries/
+Libraries/
+Intermediates/
+Client/Binaries/
+Client/Resources/
+Client/Intermediates/
+
