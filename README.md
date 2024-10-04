@@ -28,7 +28,7 @@ Winapi와 C++로 구현되어 있습니다.
 
 <br>
 
-![Move 상세 흐름도](./IOCP_Move.drawio.png)
+![Move 상세 흐름도](./IOCP_Move.png)
 
 <br>
 
