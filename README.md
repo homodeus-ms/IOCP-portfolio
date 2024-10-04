@@ -12,11 +12,28 @@ Winapi와 C++로 구현되어 있습니다.
 
 <br>
 
+**IOCP 전체 간략한 흐름**
+
+<br>
+
 ![간략한 흐름](./IOCP.drawio.png)
 
 <br>
 
 <br>
+
+<br>
+
+**Move 명령의 상세 흐름**
+
+<br>
+
+![Move 상세 흐름도](./IOCP_Move.drawio.png)
+
+<br>
+
+<br>
+
 
 **구현 목표**
 
